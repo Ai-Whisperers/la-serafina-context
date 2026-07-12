@@ -1,89 +1,140 @@
-# La Serafina — Origen del Nombre
+# Casa de Serafina Dávalos — Restauración 2025-2026 (Dossier Completo)
 
-> **TL;DR:** "La Serafina" lleva el nombre de **Serafina Dávalos**, la primera abogada paraguaya (graduada 1907), lesbiana documentada, muerta en 1957. Honoria Barilán fue su pareja de toda la vida. La casa donde vivieron juntas está a 2 cuadras del actual espacio cultural. AIREANA bautizó así al espacio para preservar su memoria.
+> **TL;DR:** La casa donde **Serafina Dávalos vivió con Honoria Barilán más de 50 años** (Herrera 892 entre Estados Unidos y Tacuary, Asunción) atraviesa un proceso de restauración que en 2026 está en crisis. Convenio firmado **13 de junio 2025** con SNC + IPS + Procuraduría para crear el "Centro Cultural Serafina Dávalos". En julio 2025 ni empezaron obras. En mayo 2026 el IPS debatió rescindir. AIREANA es uno de los 10 puntos oficiales de recolección de firmas ciudadanas (viernes 20:00–02:00 en La Serafina).
 
-Esta página documenta el origen del nombre porque NO es obvio para quien llega nuevo — y entenderlo cambia toda la lectura de la organización.
-
-## Quién fue Serafina Dávalos
+## Ficha del inmueble
 
 | Campo | Valor | Fuente |
 |-------|-------|--------|
-| Nombre completo | Serafina Dávalos | Wikipedia, Agencia Presentes, "De toda la vida" |
-| Nacimiento | 9 de septiembre de 1883, Ajos (Coronel Oviedo) | [AP 2022](https://agenciapresentes.org/2022/09/09/serafina-davalos-la-primera-abogada-de-paraguay-feminista-y-lesbiana/) |
-| Muerte | 1957, Asunción | "De toda la vida" |
-| Primera egresada | Facultad de Derecho, Universidad Nacional de Asunción, 1907 | Wikipedia, AP, FC |
-| Tesis | "Humanismo" (1907) — cuestiona maternidad obligatoria y matrimonio | "De toda la vida" cita textual |
-| Pareja | Honoria Barilán (vivieron juntas más de 50 años) | "De toda la vida" |
-| Causa de muerte | Enfermedad larga | "De toda la vida" |
-| Sepultura | "Se le negaron funerales cristianos" — sin lápida | "De toda la vida" p.16 |
-| Estigma post-mortem | Querella de 2017 por Nicasio Dávalos contra Honoria (desestimada) | AP 2022 |
+| Dirección | **Herrera 892, entre Estados Unidos y Tacuary, Asunción** | Múltiple |
+| Propietario actual | **Instituto de Previsión Social (IPS)** desde 1957 tras muerte de Serafina | Última Hora, Pausa |
+| Construcción | **Iniciada en 1914** | SNC convenio |
+| Diseño | Ecléctico vanguardista principios del s. XX + neohistoricismo | Pausa |
+| Declarada Patrimonio | **2021**, Resolución SNC N.º 112/2021 | SNC |
+| Otros ocupantes históricos | Asociación de Médicos Colorados (alquilado durante mucho tiempo; modificaron un sector para fiestas) | Pausa |
+| Estado físico 2026 | "vertedero" — techo dañado, sótano inundado, vandalismo, grietas | ABC Color |
 
-## Datos clave de su vida
+## Cronología — restauración
 
-**Lo que destaca:**
+| Fecha | Evento | Actor | Notas |
+|-------|--------|-------|-------|
+| 1957 | Fallecimiento de Serafina Dávalos. Pasa al IPS | — | Sin cristiana sepultura / sin lápida |
+| ~1960-2010 | IPS alquila a Asociación de Médicos Colorados (modificado para fiestas) | IPS + AMC | Deterioro comienza |
+| ~2010 | Abandono de facto | — | Saqueos, vertedero |
+| 2017 | Nicasio Dávalos intenta querella contra Honoria Barilán (desestimada) | — | Caso emblemáticos |
+| 2021 | **Declarada Bien de Valor Patrimonial Cultural Nacional** por SNC, Res. 112/2021 | SNC | Reconocimiento formal |
+| 2024 | Casa en situación deplorable según prensa | — | Activismo del CDE |
+| **2025-06-13** | **Convenio SNC + IPS + Procuraduría firmado** (Asunción 500 Años) | Adriana Ortiz Semidei (SNC) + Marco Aurelio González Maldonado (Procuraduría) + Jorge Magno Brítez Acosta (IPS) | Acuerdo para restaurar + usufructo PGR |
+| 2025-07 | Iniciativa pública del IPA se suspende | — | IPA inicialmente quería el usufructo (¡antes que la PGR!) |
+| Feb 2026 | Procuraduría informa "licitaciones desiertas y recortes presupuestarios" | PGR | Incumplimiento de plazos |
+| **2026-05** | **CDE y organizaciones lanzan campaña de firmas** | Lilian Soto (CDE) | Objetivo: 200 firmas, conseguido +1.400 en 3 meses |
+| 2026-05 | Reunion con **Isaías Fretes** (IPS, presidente Consejo) | CDE | Foto Instagram @cdecomunica |
+| 2026-05 | Reunión con **Rubén Gaona** (Procurador General) | CDE | Reconoce no tener recursos; anuencia con rescindir |
+| 2026-05 | Senadores **Esperanza Martínez** (opositora) y **Lizarella Valiente** (cartista) se pronuncian | Senado | Compromiso bicameral a favor |
+| 2026-05-12 | **IPS Consejo debate rescindir** — dictamen jurídico recomienda rescindir | Bettina Albertini (MTE), Jimmy Jiménez (MSP), Víctor Insfrán (Trabajadores Aportantes) | ABC Color publica |
+| **2026-05-24** | IPS posterga rescisión esperando que PGR ejecute en 2026 | Dr. Isaías Fretes (presidente Consejo) | HOY |
+| **2026-05-24** | Senado aprueba proyecto para Comisión Nacional restauración | Senado | Incluye SNC + MOPC + Min Mujer + IPA + 1era Dama + CDE |
+| **2026-07-03** | Última Hora publica detalles + 11 puntos de recolección de firmas | Última Hora | AIREANA es uno de los 11 puntos |
 
-- Durante **15 primaveras** fue la única abogada del país (1907–≈1922).
-- Fundó y militó: **Movimiento Feminista de Asunción**, **Centro Feminista Paraguayo**, **Unión Femenina del Paraguay**, **Liga Paraguaya por los Derechos de la Mujer**.
-- **Primera mujer en integrar el Tribunal Superior de Justicia** (no se especifica fecha en las fuentes consultadas).
-- 1907: escribió en *Humanismo*: *"¿por qué no se ha de sostener que la única misión del hombre es la de ser padre?"* — el feminismo estaba 100 años adelantado.
-- Manejaba su propio coche — escándalo para la época.
-- Se paseaba con Honoria por Asunción, paseos que generaban rechazo público.
-- Encabezó una marcha de mujeres en 1094 (1904?) **buscando la paz** durante la guerra civil (año confirmado en "De toda la vida": "ante la guerra civil en 1094"; posiblemente error tipográfico por 1904).
-- Honoria la llamaba **"amiga inseparable, fiel secretaria, dama de compañía"** para disimular — patrón que las lesbianas paraguayas replicaron 100 años después.
+## Quiénes participan en el proceso
 
-## El nombre "La Serafina" como acto político
+### Lado del Estado (firmantes del convenio 2025-06-13)
+- **Adriana Ortiz Semidei** — Ministra Secretaria Ejecutiva SNC
+- **Marco Aurelio González Maldonado** — Procurador General de la República
+- **Jorge Magno Brítez Acosta** — Presidente Consejo IPS (firmó el convenio original)
 
-> **Texto del libro "De toda la vida" (cap. 1):**
+### Lado IPS (Consejo actual 2026)
+- **Dr. Isaías Fretes** — Presidente Consejo (foto con CDE)
+- **Bettina Albertini** — Consejera, representante del Ministerio de Trabajo
+- **Dr. Jimmy Jiménez** — Consejero, representante del Ministerio de Salud
+- **Víctor Insfrán** — Consejero, representante de los Trabajadores Aportantes (saliente)
+
+### Lado legislativo
+- **Senadora Esperanza Martínez** — opositora, partidaria de la restauración
+- **Senadora Lizarella Valiente** — cartista (ironía: usualmente es quien **desinforma** sobre AIREANA y LGBTIQ+ en general)
+
+### Lado sociedad civil
+- **Centro de Documentación y Estudios (CDE)** — Lilian Soto, investigadora asociada; campaña de firmas
+- **Colectivo Serafina Dávalos** — estudiantes de Derecho UNA
+- **Grupo Rescatando a Serafina** — Rosemary Dávalos (sobrina nieta) + Gustavo Ilutovich
+- **Aireana** — punto de recolección de firmas (viernes 20:00–02:00)
+- **Museo del Barro**, **Global Infancia**, **Galería Fábrica**, **Verónica Torres Colección de Arte**, **Codehupy**, **Tierraviva**, **FACSO-UNA**, **El Granel**
+
+## Plan original del convenio 2025
+
+> **Secretaria Nacional de Cultura (SNC) — Convenio 2025-06-13:**
 >
-> "En la actualidad hay bibliotecas, colectivo estudiantil, museos, casas culturales, grupos, una calle, salas y hasta un penal de mujeres que llevan su nombre. [...] Así mismo desde hace 16 años nuestro lugar de resistencia La Serafina, espacio cultural feminista."
+> "El acuerdo busca coordinar acciones entre las tres instituciones para la recuperación integral del inmueble, que será cedido en usufructo por el IPS a la Procuraduría General de la República, y destinado a fines culturales. La iniciativa forma parte de una estrategia del gobierno para la preservación del patrimonio histórico y arquitectónico, en línea con las políticas públicas de puesta en valor del centro histórico de la capital."
 
-Es decir: **AIREANA nombró a su sede en homenaje explícito**. No es random, no es decorativo. Es un gesto de afirmación histórica: "existen lesbianas paraguayas desde hace más de un siglo, y aquí estamos siguiendo el hilo".
+> **Marco Aurelio González Maldonado (Procurador):**
+>
+> "La Procuraduría va a sentar su sede aquí, en la que fue su casa. Serafina fue mucho más que la primera doctora en Derecho; fue una gran humanista. Su tesis significó mucho en su tiempo."
 
-Esto explica por qué en los comunicados AIREANA siempre escribe "Serafina" en su propio contexto — no es solo nombre de un bar cultural, es un linaje.
+> **Adriana Ortiz Semidei (SNC):**
+>
+> "La Casa Serafina Dávalos ha esperado durante muchos años para encontrar una voz que la represente con verdadera altura. Estoy convencida de que la Procuraduría, usted señor Procurador, y todo su equipo, van a encarnar esa mirada comprometida que también tuvo Serafina Dávalos."
 
-## La casa de Serafina
+> **Uso planeado:**
+> "La puesta en valor de la vivienda contempla su restauración como Centro Cultural Serafina Dávalos, con espacios dedicados a la promoción de la artesanía nacional y áreas multidisciplinarias, así como una sala especial para la difusión de la vida y legado de esta pionera."
 
-- Ubicación: **entre las calles Estados Unidos y Tacuary** (Asunción) — **literalmente 2 cuadras** de La Serafina actual (Eligio Ayala 907). Coincidencia o intención.
-- **2022:** acuerdo firmado para restauración a través del **Instituto Paraguayo de Artesanía**.
-- Trabajo previo del **Colectivo Serafina Dávalo** — integrado por estudiantes de la Facultad de Derecho de la UNA.
+## Plan alternativo del IPA (previo al convenio)
 
-## Honoria Barilán — la otra mitad del nombre
+(Antes de que la Procuraduría se involucrara)
 
-Honoria merece mención propia. Sin ella, no habría "Serafina" + "Honoria" como pareja modelo:
+> **Adriana Ortiz (directora IPA), en Pausa 2024:**
+>
+> "Gran parte de la casa va a ser destinada a colectivos de mujeres, a la promoción de los derechos y programas de emancipación. Habrá espacios de coworking y salas de estudio para investigación. Adentro estará un museo-biblioteca en memoria de Serafina Dávalos que albergará toda la bibliografía nacional e internacional sobre el derecho y poesía escrita por mujeres."
 
-- Vivió con Serafina más de 50 años.
-- Por la formalización de 1917 (testamento) **Serafina le dejó herencia universal**.
-- En 1957, al morir Serafina, un sobrino le inició querella criminal por sospecha de asesinato para quedarse con la herencia. Caso desestimado.
-- En **2017** (60 años después), **Nicasio Dávalos** (hijo de un hermano de Serafina) **repitió la querella** contra Honoria Balirán. También desestimada.
+> - Biblioteca de arte popular + arte indígena
+> - Primera escuela de orfebrería
+> - Talleres abiertos de cerámica, cestería, telares
+> - Salas multiusos
+> - 70% de 40.000 artesanos paraguayos son mujeres
 
-> **Aireana sobre el caso 2017** (redes sociales): "Tenemos miles de 'Nicasios' en las vidas de las lesbianas, tipos que acusan a las parejas de sus hermanas de ladronas por comprar cosas conjuntamente, señores que se inventan que sus hijas fueron pervertidas por otra mujer con la que vivieron un montón de años, padres que después de violentar a sus hijas, acusan a las parejas de estas por ser denunciados. En fin, 'el mal siempre está fuera'."
+## Lo que la sociedad civil pide ahora
 
-## El podcast de AIREANA sobre Serafina
+> **Lilian Soto (CDE, investigadora asociada), en Última Hora 03 jul 2026:**
+>
+> "Lo que solicitamos es que sea un centro de memoria y de recordación y de promoción de los derechos de las mujeres. Es decir, de actividades culturales, actividades de memoria, actividades de formación, que esté en la historia de las mujeres y que la vez puedan hacerse acciones culturales ahí."
 
-AIREANA produjo un episodio de Aireatena dedicado al debate sobre la heterosexualidad oficial de Serafina:
+> "Por una parte tenemos miedo de que se caiga esa estructura, de que se destruya cada vez más, de que termine este patrimonio siendo inútil. Anhelamos que se restaure para que sea lo que debe ser en términos de honrar el legado de lucha de Serafina."
 
-> *"¿Por qué se piensa que Serafina era Heterosexual?"* — Episodio 3, Primera Temporada, Aireatena, 2020.
+## Detalles de la firma 2026
 
-Con Rosa Posa como entrevistada, defensora de la lectura lésbica:
+Lugares físicos donde firmar **hasta el 12 mayo 2026**:
+- Museo del Barro (Mar-Sáb 14:00–20:00)
+- Galería de Arte Fábrica (10:00–12:00 y 13:00–18:30)
+- Global Infancia (L-V 08:00–12:30 y 13:30–16:30)
+- Verónica Torres Colección de Arte (L-S 09:00–21:00, D-F 10:00–21:00)
+- Codehupy (L-V 09:00–17:00)
+- Tierraviva (L-V 09:00–16:00)
+- Dirección de la Carrera de Sociología de la FACSO-UNA (L-V 10:00–18:00)
+- El Granel (08:00–20:00)
+- **Aireana (viernes culturales 20:00–02:00)** ← AIREANA es punto oficial de recolección
 
-> "Decir que Serafina no era lesbiana es como una señal de un pensamiento súper heterocéntrico. La gente es hetero hasta que se demuestre lo contrario. No es así el mundo por mucho que se empeñen en verlo así. Es como si al decir que Serafina Dávalos era lesbiana le estamos sacando mérito."
+## Lo que esto significa para AIREANA y el sitio
 
-> "Cuando hay que demostrar que te perjudica, te enferma y te hace morir entonces sí es lesbiana. Pero cuando brilla, la única mujer que estaba en los círculos intelectuales de la época, no lo es."
+1. **AIREANA participa activamente** — figura como punto oficial de recolección de firmas. Es tangible y verificable.
+2. **El proceso está vivo** — IPS Consejo debate rescindir; Senado creó Comisión Nacional; CDE + sociedad civil presionan.
+3. **AIREANA como espacio de memoria lésbica** — el "Centro Cultural Serafina Dávalos" coincidiría en misión con La Serafina (cultural féminista). Convergencia.
+4. **Naming** — la casa estaría operativa bajo el nombre "Serafina Dávalos", no "La Serafina". Distinguir explícitamente.
+5. **Colectivo Serafina Dávalos** — estudiantes de Derecho UNA aliados potenciales.
 
-## Por qué importa para nuestro trabajo
+## Lo que esto significa para el sitio web (si lo construimos)
 
-Si construimos un sitio para AIREANA / La Serafina:
-
-1. **Nunca traducir "Serafina"** — es nombre propio histórico.
-2. **La sección "Quiénes somos" / "Historia"** debería incluir este linaje, no obviarlo.
-3. **Honoria merece página propia** o al menos mención destacada.
-4. **El podcast episodio** puede publicarse en el sitio.
-5. **El mural/homenaje** podría ser una sección interactiva.
+1. **Página /memoria/serafina-davalos/** — debería tener timeline 1877–1957 + restauración 2025-2026
+2. **Sección "Apoyar la restauración"** — botón a la campaña de firmas
+3. **Hero tagline alternativa** — "23 años tejiendo comunidad. Defensora de la herencia de Serafina Dávalos."
+4. **Galería** de los 11 puntos físicos donde firmar — incluyendo la misma La Serafina.
+5. **News ticker** — mantenerse actualizado con IPS Consejo decisiones.
 
 ## Fuentes
 
-- [Agencia Presentes — 2022-09-09 — Serafina Dávalos: la primera abogada de Paraguay, feminista y lesbiana](https://agenciapresentes.org/2022/09/09/serafina-davalos-la-primera-abogada-de-paraguay-feminista-y-lesbiana/) (URL verificada)
-- [*De toda la vida. Memorias de lesbianas en Paraguay* — PDF, Fundación Carolina / Fondo de Mujeres del Sur, AIREANA, 2021](https://www.fundacioncarolina.es/wp-content/uploads/2022/10/De-toda-la-vida-historia-de-lesbianas.pdf) (URL verificada)
-- [Wikipedia — AIREANA](https://es.wikipedia.org/wiki/Aireana)
-- [Facebook AIREANA / LaSerafinaPy](https://www.facebook.com/LaSerafinaPy/)
-- [Aireatena — episodio "¿Por qué se piensa que Serafina era Heterosexual?"](https://anchor.fm/aireana/episodes/Por-qu-se-piensa-que-Serafina-era-heterosexual-edpp69) (URL del PDF)
+- [Secretaría Nacional de Cultura (SNC) — 13 jun 2025 (URL verificada)](https://cultura.gov.py/2025/06/firma-de-convenio-para-la-restauracion-y-puesta-en-valor-de-la-casa-de-serafina-davalos/)
+- [Última Hora — 3 jul 2026 (URL verificada)](https://www.ultimahora.com/recolectan-firmas-para-exigir-a-instituciones-la-urgente-restauracion-de-la-casa-de-serafina-davalos)
+- [ABC Color — 12 may 2026 (URL verificada)](https://www.abc.com.py/nacionales/2026/05/12/puede-el-ips-salvar-la-historica-casa-serafina-davalos-tras-el-abandono/)
+- [Diario HOY — 24 may 2026 (URL verificada)](https://www.hoy.com.py/espectaculos/arte/2026/05/24/casa-de-serafina-davalos-recuperacion-sera-posible-gracias-a-accion-de-la-sociedad-civil)
+- [Pausa — Casa Serafina Dávalos (URL verificada)](https://www.pausa.com.py/cultura/casa-serafina-davalos/626/)
+- [Agencia Presentes — Sept 2022 sobre Serafina Dávalos](https://agenciapresentes.org/2022/09/09/serafina-davalos-la-primera-abogada-de-paraguay-feminista-y-lesbiana/)
+- [CDE — Direccionario](https://www.cde.org.py/)
+- [*De toda la vida — Memorias de lesbianas en Paraguay*](https://www.fundacioncarolina.es/wp-content/uploads/2022/10/De-toda-la-vida-historia-de-lesbianas.pdf)
