@@ -59,6 +59,7 @@ Last updated: 2026-07-11 (Sesión 2 — investigación profunda)
 | [timeline-1959-2026.md](01_organization/timeline-1959-2026.md) | Timeline maestro 1959-2026 (~100 eventos) | ✅ |
 | [marzo-2024-balance-discriminacion.md](01_organization/marzo-2024-balance-discriminacion.md) | Estado del Estado 2024 (Ley Garrote, Marcha 21) | ✅ |
 | [social-media-real-handles.md](01_organization/social-media-real-handles.md) | Handles verificados del footer oficial (FB/IG/TT/YT/Linktree) | ✅ |
+| [voces-citadas.md](01_organization/voces-citadas.md) | Personas mencionadas + citas verbatim con URL | ✅ |
 
 ## 02_research (10 docs)
 
@@ -176,7 +177,7 @@ Empty.
 | 09_deliverables | 3 |
 | 10_risk_assessment | 3 |
 | HANDOFF | 1 |
-| **Total** | **73** |
+| **Total** | **75** |
 
 ---
 
