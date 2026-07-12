@@ -174,7 +174,7 @@ Empty.
 | 09_deliverables | 3 |
 | 10_risk_assessment | 3 |
 | HANDOFF | 1 |
-| **Total** | **69** |
+| **Total** | **71** |
 
 ---
 
