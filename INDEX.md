@@ -58,6 +58,7 @@ Last updated: 2026-07-11 (Sesión 2 — investigación profunda)
 | [venir-al-sur-encuentro-lesbitrans.md](01_organization/venir-al-sur-encuentro-lesbitrans.md) | 2012 + 2014 + ediciones posteriores + lista firmantes | ✅ |
 | [timeline-1959-2026.md](01_organization/timeline-1959-2026.md) | Timeline maestro 1959-2026 (~100 eventos) | ✅ |
 | [marzo-2024-balance-discriminacion.md](01_organization/marzo-2024-balance-discriminacion.md) | Estado del Estado 2024 (Ley Garrote, Marcha 21) | ✅ |
+| [social-media-real-handles.md](01_organization/social-media-real-handles.md) | Handles verificados del footer oficial (FB/IG/TT/YT/Linktree) | ✅ |
 
 ## 02_research (10 docs)
 
@@ -72,6 +73,7 @@ Last updated: 2026-07-11 (Sesión 2 — investigación profunda)
 | [voices-index.md](02_research/voices-index.md) | 16 posicionamientos públicos citables con URL | ✅ |
 | [codehupy-role-and-discriminacion-informe-anual.md](02_research/codehupy-role-and-discriminacion-informe-anual.md) | Cap. "Performance provida" Codehupy 2024 | ✅ |
 | [documentales-referencias-imprescindibles.md](02_research/documentales-referencias-imprescindibles.md) | 5 producciones culturales (108, Las Herederas, Alquimistas, etc.) | ✅ |
+| [codehupy-confirmed-urls.md](02_research/codehupy-confirmed-urls.md) | URLs Codehupy verificadas 2026-07-11 | ✅ |
 
 ## 03_competitors-and-peers (5 docs)
 
@@ -174,7 +176,7 @@ Empty.
 | 09_deliverables | 3 |
 | 10_risk_assessment | 3 |
 | HANDOFF | 1 |
-| **Total** | **71** |
+| **Total** | **73** |
 
 ---
 

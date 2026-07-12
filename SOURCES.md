@@ -26,9 +26,14 @@
 |------------|--------|-----|------------|
 | Facebook | @LaSerafinaPy | https://www.facebook.com/LaSerafinaPy/ | ✅ |
 | Facebook (AIREANA) | @aireana.laserafina | https://www.facebook.com/aireana.laserafina | ✅ |
-| Instagram (probable) | @laserafinapy | https://www.instagram.com/laserafinapy/ | [VERIFY] |
-| Instagram (AIREANA) | @aireanapy | https://www.instagram.com/aireanapy/ | [VERIFY] |
+## Instagram (AIREANA)
+
+| Instagram (AIREANA) | @aireanalaserafina | https://www.instagram.com/aireanalaserafina/ | ✅ 200 (footer oficial) |
+| Instagram (La Serafina) | @laserapy (sin eñe) | https://www.instagram.com/laserapy | ✅ 200 (footer oficial) |
 | X (Twitter) AIREANA | @aireanapy | https://x.com/aireanapy | ✅ |
+| TikTok (AIREANA) | @aireanapy | https://www.tiktok.com/@aireanapy | ✅ 200 |
+| TikTok (La Serafina) | @laserapy | https://www.tiktok.com/@laserapy | ✅ 200 |
+| YouTube (channel ID) | UCpaG8scWVJ6D8qWkq0NvC0Q | https://www.youtube.com/channel/UCpaG8scWVJ6D8qWkq0NvC0Q | ✅ 200 |
 | Linktree | Las Serafina | https://linktr.ee/laserafinapy | ✅ |
 
 ## Wikipedia
