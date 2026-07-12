@@ -36,6 +36,30 @@
 | YouTube (channel ID) | UCpaG8scWVJ6D8qWkq0NvC0Q | https://www.youtube.com/channel/UCpaG8scWVJ6D8qWkq0NvC0Q | ✅ 200 |
 | Linktree | Las Serafina | https://linktr.ee/laserafinapy | ✅ |
 
+
+| Desobedientas | https://www.aireana.org.py/desobedientas/ | ✅ 2026-07-12 |
+| Articulación Feminista del Paraguay | https://www.aireana.org.py/articulacion-feminista-del-paraguay/ | ✅ 2026-07-12 |
+| Producciones | https://www.aireana.org.py/producciones/ | ✅ 2026-07-12 |
+| Un poco de historia | https://www.aireana.org.py/un-poco-de-historia/ | ✅ 2026-07-12 |
+| Alianzas | https://www.aireana.org.py/alianzas/ | ✅ 2026-07-12 |
+| Quienes somos | https://www.aireana.org.py/quienes-somos/ | ✅ 2026-07-12 |
+| Privadas de libertad (visitas íntimas) | https://www.aireana.org.py/privadas-de-libertad/ | ✅ 2026-07-12 |
+| Coalición LGBTTTI&TS | https://www.aireana.org.py/coalicion-lgtttbits/ | ✅ 2026-07-12 |
+| El trabajo de la Coalición | https://www.aireana.org.py/el-trabajo-de-la-coalicion/ | ✅ 2026-07-12 |
+| Premio francés 2011 | https://www.aireana.org.py/aireana-recibe-el-premio-de-derechos-humanos-de-la-republica-francesa/ | ✅ 2026-07-12 |
+| Cronología visitas íntimas | https://www.aireana.org.py/cronologia-del-reclamo-de-un-derecho-legitimo-para-las-lesbianas-privadas-de-libertad/ | ✅ 2026-07-12 |
+| Chana Coronel | https://www.aireana.org.py/chana-coronel-la-lesbiana-que-lucho-por-las-visitas-intimas-en-las-carceles-paraguayas/ | ✅ 2026-07-12 |
+| Conchas sin mar + libro | https://www.aireana.org.py/la-serafina-cierra-ano-pandemico-con-lanzamiento-de-libro-y-concierto-de-las-conchas-sin-mar/ | ✅ 2026-07-12 |
+| 76% discriminación familiar | https://www.aireana.org.py/el-76-de-los-casos-de-discriminacion-se-dan-en-el-seno-familiar-segun-informe-de-aireana/ | ✅ 2026-07-12 |
+| Romance Serafina Dávalos | https://www.aireana.org.py/el-romance-de-serafina-davalos-punto-de-partida-para-contar-la-historia-del-lesbianismo-en-paraguay/ | ✅ 2026-07-12 |
+| 1a muestra cine 2005 | https://www.aireana.org.py/festival/1a-muestra-de-cine-lesbigaytrans-de-asuncion-2005/ | ✅ 2026-07-12 |
+| Marchas TLGBI timeline | https://www.aireana.org.py/lineatiempo/marchas_tlgbi_py/ | ✅ 2026-07-12 |
+| Acto público 2003 | https://www.aireana.org.py/lineatiempo/2003-acto-publico-ano-2003-plaza-italia-asuncion/ | ✅ 2026-07-12 |
+| 1er Encuentro Feminista PY | https://www.aireana.org.py/lineatiempo/2003-1er-encuentro-feminista-del-paraguay/ | ✅ 2026-07-12 |
+| 6to Encuentro Feminista PY | https://www.aireana.org.py/lineatiempo/2016-6to-encuentro-feminista-del-paraguay/ | ✅ 2026-07-12 |
+| Entrevista Vice | https://www.aireana.org.py/entrevista_vice/ | ✅ 2026-07-12 |
+| 20 años URA + Todas locas | https://www.aireana.org.py/ediciones-de-la-ura-celebra-20-anos-con-una-exposicion-y-con-el-lanzamiento-de-todas-locas-de-rosa-posa-guinea/ | ✅ 2026-07-12 |
+
 ## Wikipedia
 
 | Tema | URL | Verificada |

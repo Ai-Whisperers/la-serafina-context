@@ -1701,3 +1701,246 @@ Si algo no se puede responder ahora, marcalo ⬜ y seguimos.
 
 — Erebus · Ai-Whisperers
 2026-07-12
+
+---
+
+# 📊 ANEXO 1 — Matriz de priorización de respuestas
+
+> **Para Ai-Whisperers después de recibir las respuestas.** Esta matriz transforma el cuestionario de "data collection" en "decision tool".
+
+## Cómo usarla
+
+Para cada bloque, contamos cuántas preguntas fueron respondidas vs dejadas como ⬜. Eso nos da un **Bloque Readiness Score** (BRS) de 0-100%.
+
+**Reglas:**
+
+| BRS | Interpretación | Acción |
+|-----|----------------|--------|
+| 90-100% | Listo para diseñar | Avanzar al siguiente paso |
+| 70-89% | Casi listo | Solo 1-2 sesiones de seguimiento |
+| 50-69% | Gaps materiales | Sesión dedicada de profundización |
+| <50% | Bloque no se puede usar | Re-preguntar en formato conversacional |
+
+## Tabla de readiness por bloque
+
+| Bloque | Preguntas respondidas / total | BRS | Acción |
+|--------|-------------------------------|-----|--------|
+| 0 — OPSEC | ___/8 | ___% | |
+| 1 — Identidad | ___/7 | ___% | |
+| 2 — Equipo | ___/9 | ___% | |
+| 3 — Historia | ___/6 | ___% | |
+| 4 — La Serafina | ___/12 | ___% | |
+| 5 — Viernes | ___/8 | ___% | |
+| 6 — Festival | ___/10 | ___% | |
+| 7 — Ro'hendu | ___/9 | ___% | |
+| 8 — Tatucada | ___/5 | ___% | |
+| 9 — Aireatena | ___/5 | ___% | |
+| 10 — Publicaciones | ___/6 | ___% | |
+| 11 — Redes | ___/10 | ___% | |
+| 12 — Sitio actual | ___/10 | ___% | |
+| 13 — Sitio nuevo | ___/12 | ___% | |
+| 14 — Idioma/tono | ___/8 | ___% | |
+| 15 — Alianzas | ___/7 | ___% | |
+| 16 — Financiamiento | ___/9 | ___% | |
+| 17 — Internacional | ___/5 | ___% | |
+| 18 — Tech stack | ___/9 | ___% | |
+| 19 — SEO | ___/8 | ___% | |
+| 20 — Accesibilidad | ___/8 | ___% | |
+| 21 — Métricas | ___/6 | ___% | |
+| 22 — Riesgos | ___/7 | ___% | |
+| 23 — Aniversario | ___/7 | ___% | |
+| 24 — Recursos | ___/6 | ___% | |
+| 25 — Cierre | ___/6 | ___% | |
+| **TOTAL** | **___/210** | **___%** | |
+
+## Bloques críticos (deben estar >80% antes de cotizar)
+
+Estos 7 bloques son **bloqueantes** para empezar a diseñar:
+
+1. **Bloque 0 — OPSEC** (seguridad primero)
+2. **Bloque 2 — Equipo** (capacidad de sostener el proyecto)
+3. **Bloque 12 — Sitio actual** (qué reemplazamos)
+4. **Bloque 13 — Sitio nuevo — visión** (qué construimos)
+5. **Bloque 14 — Idioma/tono** (cómo se siente)
+6. **Bloque 18 — Tech stack** (con qué lo construimos)
+7. **Bloque 24 — Recursos** (cuánto hay para hacerlo)
+
+## Bloques complementarios (deseables, no bloqueantes)
+
+- 1 (Identidad) — útil pero podemos proponer un marco
+- 4-10 (Programas) — útil para contenido
+- 11, 15-17, 21-23 — agregan profundidad, no bloquean el diseño
+
+## Bloques que no bloquean nada
+
+- 3 (Historia) — opcional, podemos hacer timeline con research
+- 19-22, 25 — operativo, después de empezar
+
+---
+
+# 💰 ANEXO 2 — Matriz de pricing
+
+> **Reglas de pricing basadas en el patrón `complete-questionnaire.md` de Sonia (Nexa).** Adaptadas a AIREANA (sin fines de lucro + sensible).
+
+## Tres tiers según el alcance
+
+| Tier | Qué incluye | Precio referencia | Cuándo aplica |
+|------|-------------|-------------------|---------------|
+| **Tier 1 — Setup mínimo** | Home + 4 páginas estáticas + sitemap + JSON-LD básico | USD 800-1.500 | Si AIREANA quiere visibilidad rápida |
+| **Tier 2 — Sitio institucional completo** | Todo Tier 1 + eventos + reservas + Ro'hendu form + bilingüe + accesibilidad WCAG AA | USD 2.500-4.500 | Si AIREANA quiere plataforma funcional |
+| **Tier 3 — Plataforma cultural + incidencia** | Todo Tier 2 + Festival micrositio + 21 ediciones dinámicas + newsletter + analytics respetuoso | USD 6.000-9.000 | Si AIREANA quiere plataforma de incidencia real |
+
+> **Descuento ONG LGBTIQ+:** -20% en cualquier tier (política interna Ai-Whisperers para organizaciones sin fines de lucro con trabajo verificable en derechos humanos).
+
+> **Pago en cuotas:** 40% upfront + 30% mid + 30% entrega.
+
+## Lo que NO está incluido (se cobra aparte)
+
+- Mantenimiento mensual: USD 80-150/mes (hosting + updates + monitoring)
+- Creación de contenido nuevo: USD 25-40/hora (redes, blog, traducción)
+- Producción audiovisual: outsourcing con partners locales (USD variable)
+- Traducción al guaraní: si AIREANA no tiene traductora propia, presupuesto separado
+
+---
+
+# 📋 ANEXO 3 — Checklist pre-propuesta
+
+> Lo que Ai-Whisperers debe tener listo ANTES de mandar una propuesta:
+
+- [ ] Cuestionario completado por AIREANA (mínimo Bloques 0, 2, 12, 13, 14, 18, 24)
+- [ ] Sesión de seguimiento realizada (presencial en Asunción o videollamada)
+- [ ] BRS global >70% en bloques críticos
+- [ ] Inventario de archivos recibidos de AIREANA (logos, fotos, documentos)
+- [ ] Confirmación de derechos sobre uso de marca AIREANA / La Serafina
+- [ ] Confirmación de tono y vocabulario final (léxico sagrado en guaraní)
+- [ ] Plan de comunicaciones: qué le decimos a AIREANA y cuándo
+- [ ] Mockups de home + 2 páginas clave (en Figma o screenshots del demo)
+- [ ] Pricing acordado (Tier + descuento ONG)
+- [ ] Timeline tentativo (6-12 semanas)
+
+## Riesgos que pueden bloquear la propuesta
+
+1. **BRS global <50%** → No tenemos info suficiente para cotizar bien. Pedir más sesiones.
+2. **Bloque 0 (OPSEC) <80%** → Riesgo de seguridad no resuelto. No avanzar.
+3. **Bloque 22 (Riesgos) <50%** → No sabemos qué puede salir mal. Conversar antes.
+4. **Bloque 24 (Recursos) sin definir** → No sabemos si AIREANA puede pagar. Conversar primero.
+
+---
+
+# 🗓️ ANEXO 4 — Timeline sugerido
+
+> Basado en el patrón de `apps/somosgay-site` (8 semanas para sitio institucional equivalente) + ajustes para AIREANA.
+
+## Fase 0 — Alineación (semana 0)
+
+- Cuestionario recibido
+- Sesión de seguimiento
+- Confirmación de alcance (Tier 1, 2 o 3)
+- Firma de acuerdo (si va)
+
+## Fase 1 — Diseño (semanas 1-2)
+
+- Wireframes de las 5-7 páginas clave
+- Design system (tokens, paleta, tipografía)
+- Mockups de home + 1 página de programa
+- Revisión con AIREANA
+
+## Fase 2 — Construcción (semanas 3-6)
+
+- Setup del repo + tech stack
+- Implementación de páginas (orden: home → programa más fuerte → resto)
+- Integración de contenido (textos, fotos, JSON-LD)
+- Bilingüe (si Tier 2+)
+- Accesibilidad WCAG AA (si Tier 2+)
+
+## Fase 3 — QA + Lanzamiento (semanas 7-8)
+
+- Auditoría de accesibilidad
+- Pruebas de carga
+- Auditoría SEO
+- Capacitación al equipo AIREANA para actualizar contenido
+- Deploy + DNS + SSL
+- Documentación handoff
+
+## Fase 4 — Post-lanzamiento (semanas 9-12)
+
+- Monitoreo de errores (Sentry o similar)
+- Ajustes menores
+- Sesión de cierre
+- Inicio de mantenimiento mensual (si se contrata)
+
+---
+
+# 🤝 ANEXO 5 — Glosario de jerga interna AIREANA
+
+> **Para Ai-Whisperers durante el proyecto.** Términos que NO traducir.
+
+| Término | Significado |
+|---------|-------------|
+| **Aireana** | "Ventilá, por favor" en jopará. Nombre de la ONG. |
+| **La Serafina** | Espacio cultural + sede operativa. Lleva la "S" en branding. |
+| **Tatucada** | Batucada de AIREANA. Tatú = armadillo + vulva. |
+| **Ro'hendu** | "Te escuchamos" en guaraní. Línea de apoyo. |
+| **Aireatena** | Podcast de AIREANA. |
+| **Desobedientas** | Grupo juvenil LBT 18-29. |
+| **Vulvasónicas** | Banda aliada. 3 canciones con AIREANA. |
+| **Viernes Culturales** | Programación semanal de La Serafina. |
+| **Festival LesBiGayTrans** | Festival anual de cine LGBTIQ+. |
+| **Casa Serafina Dávalos** | Casa histórica en restauración. No confundir con La Serafina. |
+| **Serafina Dávalos** | Persona (1877-1971). Poetisa, pedagoga, primera mujer médica. |
+| **TLGBI** | Trans, Lesbianas, Gays, Bisexuales, Intersex. |
+| **LGBTTTI** | Lesbianas, Gays, Bisexuales, Trans, Travestis, Intersex. Variante OEA. |
+| **Cuir** | "Disidencia sexual/genérica" en jerga cuir-queer LATAM. |
+| **Sáfica** | Relativo a Safo de Lesbos. Lésbico, en uso AIREANA. |
+| **Ñande Rekó** | "Nuestra manera de ser" en guaraní. Modo de vida. |
+| **Tekoporã** | "Buen vivir" en guaraní. |
+| **Kuña Kuimba'e** | "Mujer varón" en guaraní. Persona transmasculina. |
+
+---
+
+# 📚 ANEXO 6 — Referencias cruzadas al research repo
+
+> Cada bloque del cuestionario tiene material de base en el repo `Ai-Whisperers/la-serafina-context`. Esto es lo que **ya sabemos** vs lo que **preguntamos**.
+
+| Bloque | Material en research | Lo que pregunta el bloque |
+|--------|----------------------|---------------------------|
+| 0 — OPSEC | (sin doc previo) | Incidentes, política de exposición |
+| 1 — Identidad | `aireana-overview.md`, `social-media-real-handles.md` | Misión verbatim, manifiesto |
+| 2 — Equipo | `voces-citadas.md`, `leadership-and-people.md` | Roles, gobernanza, cantidad |
+| 3 — Historia | `timeline-1959-2026.md`, `history-and-timeline.md` | Archivo físico/digital, cronología escrita |
+| 4 — La Serafina | `la-serafina-overview.md` | Capacidad real, líneas rojas, accesibilidad |
+| 5 — Viernes | `la-serafina-overview.md`, `programs-and-services.md` | Agenda sistematizada, criterios |
+| 6 — Festival | `festival-de-cine-completo.md` | Archivo histórico, submissions, jurado |
+| 7 — Ro'hendu | `ro-hendu-completo.md`, `marzo-2024-balance-discriminacion.md` | Sistema de registro, estadísticas |
+| 8 — Tatucada | `la-tatucada-completo.md` | Cantidad de integrantes, eventos |
+| 9 — Aireatena | `aireatena-podcast-completo.md` | Plataformas, reactivación |
+| 10 — Publicaciones | `publications-completo.md`, `producciones-audiovisuales.md` | Stock, digitalizaciones, licenciamiento |
+| 11 — Redes | `social-media-real-handles.md` | Manejo, frecuencia, crisis |
+| 12 — Sitio actual | `05_website-audit/sitemap-extract-2026-07-12.md` | Mantenimiento, visitas, problemas |
+| 13 — Sitio nuevo | (nuevo) | Funcionalidades, prioridades |
+| 14 — Idioma | `04_brand/`, `08_questionnaires/README.md` | Bilingüe, términos sagrados, paleta |
+| 15 — Alianzas | `coalicion-tlgbi-completo.md`, `articulacion-feminista.md` | Alianzas activas, tensiones |
+| 16 — Financiamiento | `funding-and-finances.md` | Mecanismos individuales, Open Collective |
+| 17 — Internacional | `venir-al-sur-encuentro-lesbitrans.md` | Ediciones, aliados LATAM |
+| 18 — Tech | (nuevo) | Dominio, hosting, presupuesto mantenimiento |
+| 19 — SEO | (nuevo) | SEO agresivo, blog, dominio |
+| 20 — Accesibilidad | (nuevo) | Quick Exit, WCAG, Tor |
+| 21 — Métricas | (nuevo) | GA4 vs Plausible, dashboards |
+| 22 — Riesgos | (nuevo) | Plan B en caso de cierre |
+| 23 — Aniversario | `caso-serafina-davalos-restauracion.md`, `history-and-timeline.md` | Celebración 20°, formato |
+| 24 — Recursos | (nuevo) | Disponibilidad equipo, presupuesto |
+| 25 — Cierre | (nuevo) | Forma de contacto, primer paso |
+
+---
+
+**FIN DEL CUESTIONARIO v3.1**
+
+**Versiones:**
+- v1 (2026-07-10): primera versión, 35 preguntas
+- v2 (2026-07-11): refactor con pre-respuestas, 210 preguntas
+- v3 (2026-07-12): anexos 1-6 — matriz de priorización, pricing, checklist, timeline, glosario, referencias cruzadas
+
+**Próxima versión sugerida (v4):**
+- Formulario web interactivo (cuando AIREANA tenga navegador seguro + hosting confiable)
+- Versión en guaraní parcial (mínimo bloques 0, 1, 7, 13)
+- Versión en inglés para aliados internacionales

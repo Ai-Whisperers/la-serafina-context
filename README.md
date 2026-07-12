@@ -4,6 +4,18 @@
 
 ---
 
+## 📊 Estado del repo (2026-07-12)
+
+- **80 documentos** en 10 carpetas
+- **~58K palabras** de research verificado
+- **135+ URLs** únicas verificadas vía curl/web_extract
+- **Demo site:** 15 rutas activas en `apps/la-serafina-site` (paragu-ai-platform)
+- **Cuestionario:** 210 preguntas + 6 anexos en `08_questionnaires/intake-aireana-completo.md`
+- **Decisiones:** 10 documentadas en `06_decisions/decisiones-tomadas.md`
+- **Demo público:** https://laserafina.paragu-ai.com
+
+---
+
 ## Resumen ejecutivo
 
 - **Qué es:** Centro cultural feminista + bar + espacio multiuso en Asunción, Paraguay. Es la sede operativa de AIREANA desde 2005.
@@ -25,7 +37,8 @@
 | Web | https://www.aireana.org.py/la-serafina/ |
 | Facebook (La Serafina) | https://www.facebook.com/LaSerafinaPy/ (~5.5K) |
 | Facebook (AIREANA) | https://www.facebook.com/aireana.laserafina |
-| Instagram | @laserafinapy |
+| Instagram (La Serafina) | https://www.instagram.com/laserapy/ (**@laserapy sin ñ**) |
+| Instagram (AIREANA) | https://www.instagram.com/aireanalaserafina/ |
 | Twitter/X | https://x.com/aireanapy |
 | Coordenadas | -25.2857252, -57.62674 |
 | Horarios | Viernes 20:00–02:00 (programación pública); resto bajo reserva |

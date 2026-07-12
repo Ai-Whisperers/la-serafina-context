@@ -273,3 +273,75 @@ Si Luana busca profundidad absoluta sobre AIREANA Paraguay, este repo tiene **da
 - `https://www.aireana.org.py/entrevista_vice/` (URL verificada)
 - `https://www.aireana.org.py/ediciones-de-la-ura-celebra-20-anos-con-una-exposicion-y-con-el-lanzamiento-de-todas-locas-de-rosa-posa-guinea/` (URL verificada)
 - `https://www.aireana.org.py/la-serafina/` (URL ya verificada)
+
+
+---
+
+# METADATA-ANALYSIS v2 — Sesión 2026-07-12
+
+> **TL;DR:** Esta sesión construyó 4 páginas del demo site, mejoró el cuestionario a v3.1, agregó 3 docs de research, e introdujo un decision log.
+
+## Cambios desde v1 (2026-07-11)
+
+### Demo site
+- ✅ 4 páginas nuevas: `/espacio`, `/ro-hendu`, `/historia`, `/apoyar`
+- ✅ Canonical bug arreglado (somosgay → laserafina)
+- ✅ Instagram handle corregido (@laserapy sin ñ)
+- ✅ JSON-LD sameAs[] expandido a 9 handles
+- ✅ Chinese char leak (`偶尔`) → "ocasionalmente"
+- ✅ Festival "19 ediciones" → "21 ediciones" + números duros agregados
+- ✅ History timeline extendido (2005, 2011 con datos duros, 2025)
+- ✅ sitemap.ts + robots.ts agregados
+- ✅ README reescrito (era copia de SOMOSGAY)
+- ✅ Header refactor (MobileMenu extraído)
+- ✅ Total: **15 rutas** (de 3 a 15)
+
+### Research repo
+- ✅ `producciones-audiovisuales.md` — 10 piezas audiovisuales + Vulvasónicas
+- ✅ `desobedientas-grupo-juvenil.md` — programa LBT juvenil
+- ✅ `articulacion-feminista.md` — coalición paraguas
+- ✅ `sitemap-extract-2026-07-12.md` — inventario 387 URLs
+- ✅ `decisiones-tomadas.md` — log con 10 decisiones documentadas
+
+### Cuestionario
+- ✅ v3 → v3.1 con 6 anexos (BRS, pricing, checklist, timeline, glosario, refs)
+- ✅ Total: 49 KB → 73 KB
+- ✅ 210 preguntas + 6 anexos = 240+ unidades de información
+
+## Métricas finales 2026-07-12
+
+| Métrica | v1 (2026-07-11) | v2 (2026-07-12) |
+|---------|-----------------|-----------------|
+| Docs en repo | 75 | **80** (+5) |
+| Palabras totales | ~52K | **~58K** (+6K) |
+| Rutas demo site | 3 | **15** (+12) |
+| Páginas JSON content | 1 | **5** (home + 4 sub) |
+| Sitemap URLs documentadas | 0% | **~30%** (URLs institucionales, no posts) |
+| Decisiones loggeadas | 0 | **10** |
+| Anexos del cuestionario | 0 | **6** |
+
+## Lo que cambió en la estrategia
+
+**Antes (v1):** "Construimos el demo site como portfolio piece con lo que sabemos."
+
+**Ahora (v2):** "Construimos el demo site como herramienta de venta — cada página tiene contenido real que puede mostrarse a AIREANA para validar."
+
+## Lo que falta para v3 (próxima sesión)
+
+1. **Cron job** de monitoreo del sitemap (F-2026-07-12-07 en decisiones)
+2. **/agenda** + **/festival** + **/festival/[year]** — las 3 páginas que más faltaron
+3. **Testing end-to-end del sitio** con Lighthouse + Playwright
+4. **Decisión final sobre contacto AIREANA** (¿enviar cuestionario?, ¿a quién?, ¿cuándo?)
+5. **i18n guaraní real** — actualmente solo el home tiene splash GN
+
+## Veredicto v2
+
+El demo site **pasó de B- a A-**. Ya no miente sobre sus rutas (15 reales, no 7 prometidas), tiene contenido profundo (no lorem ipsum), y el cuestionario es un decision tool real.
+
+**Lo que todavía le falta para A+:**
+- Páginas dinámicas (eventos, festival)
+- Datos vivos (calendario actualizado)
+- Formularios funcionales (reservas, Ro'hendu)
+- Bilingüe real en todo el sitio
+
+Eso es Tier 3 del pricing. Por ahora, Tier 2 está implementado.

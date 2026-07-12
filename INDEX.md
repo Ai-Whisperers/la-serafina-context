@@ -3,7 +3,7 @@
 > **Canonical table of contents.** Single source of truth for "what is this repo".
 > STATUS flags: ✅ complete · 🟡 draft · ⬜ pending · 📦 archived · 🚫 blocked
 
-Last updated: 2026-07-11 (Sesión 2 — investigación profunda)
+Last updated: 2026-07-12 (Sesión 3 — improvement pass: 4 new pages, 5 new docs, decision log, questionnaire v3.1)
 
 ---
 

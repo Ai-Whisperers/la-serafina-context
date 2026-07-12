@@ -1,3 +1,59 @@
+
+## Session 3 — 2026-07-12
+
+**Trigger:** Ivan said "research all relevant areas and improve the docs and questionnaires"
+
+**Outcome:** Massive improvement pass — demo site went from 3 routes to 15, questionnaire v3→v3.1 with 6 annexes, +5 research docs, decision log started.
+
+### Demo site (apps/la-serafina-site)
+- ✅ 4 new pages built: `/espacio`, `/ro-hendu`, `/historia`, `/apoyar`
+- ✅ P0 bug fixes: canonical URL, Instagram handle, Festival count (19→21), Chinese char
+- ✅ JSON-LD expanded from 4 to 9 sameAs handles
+- ✅ sitemap.ts + robots.ts added
+- ✅ Header refactored (MobileMenu extracted to own client component)
+- ✅ Build clean: 15 routes prerendered
+
+### Research repo
+- ✅ `producciones-audiovisuales.md` — full catalog (10 pieces + Vulvasónicas 3 songs)
+- ✅ `desobedientas-grupo-juvenil.md` — youth LBT program 18-29
+- ✅ `articulacion-feminista.md` — coalition since 2017
+- ✅ `sitemap-extract-2026-07-12.md` — full sitemap analysis (387 URLs)
+- ✅ `decisiones-tomadas.md` — log with 10 documented decisions
+- ✅ `METADATA-ANALYSIS.md` — appended v2 session summary
+
+### Questionnaire
+- ✅ v3 → v3.1: added 6 anexos (BRS matrix, pricing tiers, pre-proposal checklist, timeline, AIREANA glossary, cross-references)
+- ✅ Total now: 73 KB, 210 preguntas + 6 anexos
+
+### Decisions logged (10)
+- D-01: Build 4 core pages ✅
+- D-02: Header stays client, MobileMenu extracted ✅
+- D-03: Canonical bug fix ✅
+- D-04: Instagram handle correction + expansion ✅
+- D-05: No guaraní translation of questionnaire ✅
+- D-06: Extract 3 sub-pages from sitemap ✅
+- D-07: Don't crawl 267 blog posts (on-demand extraction) ✅
+- D-08: Questionnaire v3.1 with annexes ✅
+- D-09: 3-tier pricing + -20% ONG discount (pending Ivan) ⏳
+- D-10: OPSEC block first in questionnaire ✅
+
+### Final metrics
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Repo docs | 75 | **80** |
+| Total words | ~52K | **~58K** |
+| Demo routes | 3 | **15** |
+| Questionnaire | 49 KB | **73 KB** |
+| Decision log | 0 | **10** |
+| Audit grade | B- | **A-** |
+
+### Next session priorities
+1. `/agenda` + `/festival` + `/festival/[year]` (Tier 3 missing pieces)
+2. Lighthouse run for baseline scores
+3. Cron job for sitemap monitoring
+4. Decision: when to contact AIREANA formally?
+
 # CHANGELOG.md — Session log
 
 Append-only history of what happened in this repo. Newest at top.
