@@ -62,13 +62,7 @@ AIREANA es una ONG con 23 años de trabajo serio (Premio Libertad, Igualdad, Fra
 
 ## PRÓXIMO PASO
 
-**Decisión:** ¿Ivan aprueba enviar el intake (`08_questionnaires/intake-aireana.md`) a Carolina Robledo?
-
-- ✅ Sí → enviar, esperar 14 días, volver con respuesta
-- ❌ No → cerrar este repo como referencia futura, no contactar
-- 🟡 Modificado → ajustar scope antes de enviar
-
-**Por defecto recomendado:** ✅ Sí. Es bajo costo (1 email/WhatsApp) y abre la puerta sin comprometer nada.
+> **UPDATE 2026-07-11 (Ivan, en chat):** Es solo un proyecto interno por ahora, con Luana como posible cliente. NO se contacta a AIREANA. El repo sirve como referencia + demo. El sitio demo está desplegado en https://laserafina.paragu-ai.com.
 
 ## Sources
 
