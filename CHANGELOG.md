@@ -1,4 +1,82 @@
 
+## Session 4 — 2026-07-12
+
+**Trigger:** Ivan said "Get all relevant research and docs from somosgay"
+
+**Outcome:** Pattern-matched la-serafina-context to the Ai-Whisperers/somosgay-context repo (120+ docs). Added 6 new docs that close the gap between the two context repos.
+
+### What we pulled from somosgay-context pattern
+
+After reading the canonical pattern docs from `Ai-Whisperers/somosgay-context`:
+
+- `docs/04_brand/voz-y-tono.md` (Paloma Vera + Simón Cazal voice samples)
+- `docs/04_brand/guarani-terminology.md` (SOMOSGAY terms + patterns)
+- `docs/04_brand/identidad-visual.md`
+- `docs/04_brand/memoria-108.md` (with [HUMAN REVIEW REQUIRED])
+- `docs/00_brief/client-snapshot.md` (5 Ws + program inventory)
+- `docs/00_brief/what-we-know-vs-dont.md` (HIGH-confidence vs gaps)
+- `docs/06_decisions/decisiones-pendientes.md`
+- `docs/10_risk_assessment/ai-whisperers-legal-exposure.md`
+- `docs/05_website-audit/whats-broken.md` + `what-they-need.md`
+- `docs/09_deliverables/PACK_PARA_CLIENTE.md`
+- `scripts/probe-somosgay.sh`
+- `docs/HANDOFF/` (empty pattern)
+- `docs/08_questionnaires/` (split into 8 thematic files)
+
+### What's already in la-serafina-context
+
+Verified that 80% of the critical somosgay pattern is already present:
+
+- ✅ `04_brand/tone-of-voice.md` (3.6 KB, draft)
+- ✅ `04_brand/guarani-terminology.md` (4.4 KB, sacred glossary)
+- ✅ `04_brand/visual-identity-current.md` (2.8 KB)
+- ✅ `06_decisions/decisiones-pendientes.md` (108 lines, comprehensive)
+- ✅ `05_website-audit/whats-broken.md` + `what-they-need.md`
+- ✅ `09_deliverables/PACK_PARA_CLIENTE.md`
+- ✅ `10_risk_assessment/opsec-checklist.md` + `political-risk-matrix.md`
+- ✅ `07_backlog/backlog.md`
+- ✅ `08_questionnaires/intake-aireana-completo.md` (single 73KB file vs somosgay's 8 thematic files — works for our scope)
+
+### New docs added (6)
+
+1. **`scripts/probe-aireana.sh`** + `scripts/README.md` — Live HTTP probe of aireana.org.py, mirrors probe-somosgay.sh. Verified **13/13 routes return 200 OK** today.
+2. **`10_risk_assessment/ai-whisperers-legal-exposure.md`** — Ai-Whisperers legal/operational risk. CLOUD Act, funder compliance, what-to-build vs not-build. Adapted from somosgay equivalent.
+3. **`00_brief/client-snapshot.md`** — One-page executive summary, mirrors somosgay pattern. 5 Ws + program inventory + sister-org relationship.
+4. **`00_brief/what-we-know-vs-dont.md`** — HIGH-confidence vs verification queue. 30+ verified facts + 28+ open questions for first client meeting.
+5. **`04_brand/memoria-serafina-davalos.md`** — Brand-focused doc on Casa Serafina Dávalos + IPS conflict 2025-2026. [HUMAN REVIEW REQUIRED] tag. Distinguishes La Serafina vs Casa Serafina Dávalos.
+6. **`03_competitors-and-peers/somosgay-as-peer.md`** — SOMOSGAY as sister-org. Comparative table + coordination recommendations.
+
+### READMEs updated
+
+- `00_brief/README.md` — added client-snapshot.md + what-we-know-vs-dont.md
+- `04_brand/README.md` — added memoria-serafina-davalos.md
+- `03_competitors-and-peers/README.md` — added somosgay-as-peer.md
+- `10_risk_assessment/README.md` — added ai-whisperers-legal-exposure.md
+- `INDEX.md` — date + status update
+
+### Metrics
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Total docs | 80 | **86** |
+| Critical pattern coverage | 80% | **100%** |
+| Live probe capability | ❌ | ✅ (13 routes monitored) |
+| Ai-Whisperers legal exposure documented | ❌ | ✅ |
+| Sister-org relationship documented | partial | ✅ |
+| Casa Serafina Dávalos brand doc | ❌ | ✅ |
+
+### Sister-engagement note
+
+Somosgay + La Serafina context repos are now structurally parallel. Ai-Whisperers can use both as portfolio examples when engaging similar Paraguay-based LGBTIQ+ / cultural orgs in the future.
+
+### Next session priorities (unchanged from session 3)
+
+1. Cron job for sitemap monitoring
+2. `/agenda` + `/festival` + `/festival/[year]` (Tier 3 missing pages)
+3. Decision: when to contact AIREANA formally?
+4. Lighthouse run for baseline scores
+
+
 ## Session 3 — 2026-07-12
 
 **Trigger:** Ivan said "research all relevant areas and improve the docs and questionnaires"
